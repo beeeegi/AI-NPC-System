@@ -11,4 +11,4 @@ It's pretty simple and easy to understand, so I won't leave comments in the code
 - Roblox knowledge
 
 # Showcase
-https://www.youtube.com/watch?v=oHQgNq_F4eQ
+https://youtu.be/pG_YyNlsH-c
